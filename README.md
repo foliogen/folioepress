@@ -1,5 +1,4 @@
 # folioepress
-folioePress — CMS profesional para periódicos y revistas digitales | Professional CMS for digital newspapers and magazines
 > El CMS especializado para periódicos y revistas digitales.
 > The specialized CMS for digital newspapers and online magazines.
 
