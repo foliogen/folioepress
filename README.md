@@ -19,15 +19,18 @@ A diferencia de los CMS genéricos como WordPress, que requieren decenas de plug
 
 Entre otras muchas prestaciones:
 
-- 📰 Maquetador visual de portadas con arrastrar y soltar
+- 📰 Maquetador visual de portadas con bloques arrastrar y soltar
+- 📰 Edición avanzada de noticias (texto,audio,vídeo,galerías,configuraciones...)
 - 🕐 Publicación programada y rotación automática de portadas
 - 👥 Gestión multi-redactor con permisos granulares
 - 🤖 IA integrada en español: **iaRedactor** (generación de contenidos)
 - 📡 **iaRADAR**: distribución a buscadores IA (ChatGPT, Gemini, Claude, Perplexity) vía `llms.txt`
 - 💰 Sistema publicitario avanzado (intersticial, in-text, Poplayer, corner)
-- 🔄 Compatible con Google AdSense y OpenX
+- 🔄 Compatible con Google AdSense, OpenX y proveedores publicitarios
+- 📰 Publica directamente en Google News Stand y Facebook Instat Articles
 - 💳 Suscripciones y pago por contenido **sin comisión**
 - 📧 Newsletter integrada
+- 🔍 Motor de SEO avanzada.
 - 🔍 SEO optimizado para Google News y Discover
 - ⚡ Soporte AMP
 - 🛡️ Herramientas de cumplimiento RGPD
@@ -86,7 +89,7 @@ Unlike generic CMS platforms like WordPress, which require dozens of plugins to 
 - 💳 Subscriptions and pay-per-content **with no commission**
 - 📧 Native newsletter system
 - 🔍 SEO optimized for Google News and Discover
-- ⚡ Native AMP support
+- ⚡ AMP support
 - 🛡️ GDPR compliance tools
 - 💾 Daily backups
 - 🧑‍💻 24/7 human technical support
