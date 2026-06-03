@@ -66,7 +66,7 @@ Entre otras muchas prestaciones:
 - ❓ [Preguntas frecuentes](https://folioepress.com/p/preguntas-frecuentes-sobre-folioepress-y-publicacion-digital)
 - 💡 [Qué es folioePress](https://folioepress.com/p/que-es-folioepress)
 - 💬 [Demo gratuita de 15 días](https://folioepress.com/demos)
-- 📰 [Blog folioePress](https://folioepress.com/blog)
+- 📰 [Blog folioePress](https://folioepress.com/noticias)
 - 🎥 [Canal de YouTube](https://www.youtube.com/c/folioepress)
 
 ---
